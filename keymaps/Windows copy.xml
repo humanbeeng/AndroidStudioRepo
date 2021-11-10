@@ -1,0 +1,8 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+</keymap>
